@@ -1,0 +1,10 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+idna==3.4
+opensearch-py==2.3.1
+python-dateutil==2.8.2
+requests==2.31.0
+six==1.16.0
+urllib3==1.26.16
+matplotlib==3.7.2
+elasticsearch~=8.9.0
